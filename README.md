@@ -1,18 +1,74 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ClarityAI – AI Plan Structuring Tool
 
+## 🚀 Project Overview
+ClarityAI is a simple web application that converts unstructured user ideas into clear, actionable plans.
+
+Users can input a vague idea, and the system transforms it into:
+- Defined goal
+- Structured steps
+- Missing elements
+- Actionable steps
+- Clarity score
+
+---
+
+## 🎯 Objective
+The goal of this project is to improve thinking clarity by transforming messy ideas into structured outputs.
+
+---
+
+## 🧠 Features
+
+### 1. Idea Input
+Users can enter any unstructured idea.
+
+### 2. Structured Output
+The system generates:
+- Goal
+- Method
+- Steps
+- Timeline
+- Missing elements
+- Simplified version
+- Action steps
+
+### 3. Clarity Score
+A score (0–100) based on:
+- Goal presence
+- Steps definition
+- Timeline availability
+- Overall clarity
+
+### 4. Clean UI
+- Color-coded sections
+- Easy readability
+- Card-based layout
+
+---
+
+## 🛠 Tech Stack
+
+- Frontend: Next.js (React)
+- Styling: Tailwind CSS
+- Backend: (Prototype uses static data; AI integration planned)
+
+---
+Refer to the page.jsx for the webpage structure design
+
+## ⚙️ Setup Instructions
+
+```bash
+git clone https://github.com/your-username/clarity-ai.git
+cd clarity-ai
+npm install
+npm run dev
 ## Getting Started
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
