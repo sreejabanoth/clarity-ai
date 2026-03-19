@@ -54,7 +54,8 @@ A score (0–100) based on:
 - Backend: (Prototype uses static data; AI integration planned)
 
 ---
-Refer to the page.jsx for the webpage structure design
+Refer to the page.tsx for the webpage structure design
+
 
 ## ⚙️ Setup Instructions
 
